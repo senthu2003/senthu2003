@@ -13,12 +13,12 @@
 - Learning DevOps and security best practices
 
 
-## 🚀 About Me
+## 🧠 About Me
 
-- 🧠 Always exploring the intersection of software, innovation, and real-world impact
-- 🛠️ Focus areas: Full-stack development, scalable systems, problem-solving
-- 🌱 Currently learning: DevOps, cloud platforms, and system design
-- 🤝 Active volunteer and member of IEEE, IEEE CS, RAS, and EMBS
+- Always exploring the intersection of software, innovation, and real-world impact
+- Focus areas: Full-stack development, scalable systems, problem-solving
+- Currently learning: DevOps, cloud platforms, and system design
+- Active volunteer and member of IEEE, IEEE CS, RAS, and EMBS
 
 
 ## 📫 How to reach me
